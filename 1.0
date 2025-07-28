@@ -1,0 +1,5 @@
+Collecting abc_property
+  Downloading abc_property-1.0-py3-none-any.whl.metadata (984 bytes)
+Downloading abc_property-1.0-py3-none-any.whl (3.4 kB)
+Installing collected packages: abc_property
+Successfully installed abc_property-1.0

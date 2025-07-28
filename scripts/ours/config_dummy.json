@@ -1,0 +1,14 @@
+{
+    "encoding": {
+		"otype": "Identity",
+		"n_bins": 32
+	},
+
+	"network": {
+		"otype": "FullyFusedMLP",
+		"activation": "ReLU",
+		"output_activation": "None",
+		"n_neurons": 128,
+		"n_hidden_layers": 8
+	}
+}
